@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey! I'm Ajay Marampally👋
+
+🔭I'm Currently pursuing my Master's in Computer Science at Universiy of Illinois at Chicago
+
 
 <!--
 **ajaymarampally/ajaymarampally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
