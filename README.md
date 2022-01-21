@@ -1,6 +1,6 @@
 ### Hey! I'm Ajay Marampally👋
 
-🔭I'm Currently pursuing my Master's in Computer Science at Universiy of Illinois at Chicago
+🔭I'm Currently pursuing Master's in Computer Science at Universiy of Illinois at Chicago.
 
 
 <!--
