@@ -2,6 +2,7 @@
 
 🔭I'm Currently pursuing Master's in Computer Science at Universiy of Illinois at Chicago.
 
+![](https://komarev.com/ghpvc/?username=ajaymarampally&color=green)
 
 <!--
 **ajaymarampally/ajaymarampally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
